@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_youtube_api/services/api_service.dart';
 import 'package:kpop_youtube_app/models/ChannelModel.dart';
 import 'package:kpop_youtube_app/models/Video.dart';
 import 'package:kpop_youtube_app/screens/VideoScreen.dart';
+import 'package:kpop_youtube_app/services/ApiService.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
