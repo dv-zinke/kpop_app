@@ -41,6 +41,7 @@ class _VideoScreenState extends State<VideoScreen> {
             },
           ),
           Text("댓글"),
+          Text("댓글"),
 
 
 
